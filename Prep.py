@@ -25,7 +25,7 @@ def ParametersCSV():
         nrows = nrows
     
     
-def ReadCSV(import_file_path,delimiter,nrows,header_row,skip_footer):
+def ReadCSV():
     global df
     
     df = pd.read_csv (import_file_path, 
