@@ -3,7 +3,8 @@ Creating a new package to prepare data with ease
 
 ## Load Data (Function)
 ### Step 1: Select Directory
-<img width="1000" alt="Choose_Directory" src="https://user-images.githubusercontent.com/8343210/72953549-785bde80-3dd0-11ea-9fd3-a6767521503c.png">
+<img width="1000" alt="Choose_Directory" src="https://user-images.githubusercontent.com/8343210/73430415-fb54da00-4378-11ea-8a0a-10ce9abff6ca.png">
+
 
 ### Step 2: User Inputs
 #### Default Values
