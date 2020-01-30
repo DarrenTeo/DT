@@ -18,7 +18,7 @@ delimiter | header_row | skip_footer | rows_to_read
 1) Read all filesname using glob 
 2) Load them using pandas with the given parameters above
 
-<img width="1000" alt="Preview_Data" src="https://user-images.githubusercontent.com/8343210/72953866-7d6d5d80-3dd1-11ea-8e2e-67a4924105fc.PNG">
+<img width="1000" alt="Preview_Data" src="https://user-images.githubusercontent.com/8343210/73430312-b4ff7b00-4378-11ea-9ad9-79046f3ca802.PNG">
 
 ## Concat Fields (function)
 <img width="500" alt="Concat_Fields" src="https://user-images.githubusercontent.com/8343210/72961510-3c367700-3dec-11ea-9d5d-e40ab50c7c6f.PNG">
